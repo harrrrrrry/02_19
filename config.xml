@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "contactlist"
+        version     = "1.0.0" >
+
+    <name>Contactlist</name>
+    <description>My first mobile</description>
+    <author href="http://mypersonalwebsite.com" email="puzle99@o2.pl">
+		WSEI10141
+	</author>
+	<platform name="android" />
+	
+	<plugin name="cordova-plugin-device" spec="~1.1.4" />
+	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
+<plugin name="cordova-plugin-contacts" spec="~2.3.0" />
+device	
+
+</widget>
